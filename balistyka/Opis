@@ -1,0 +1,7 @@
+Kalkulator obrazujący balistykę pocisku.
+
+Program wyświetla interfejs w którym można podać parametry, zapisać je, wczytać poprzednie, wyliczyć maksymalną odległość, maksymalną wysokość, oraz zobaczyć przybliżoną trajektorię. Model fizyczny do obliczania odległości i wysokości jest bardzo prosty(wykorzystuje zasadę zachowania energii), do wykresu został użyty bardziej zaawansowany model który znalazłem w internecie. 
+
+Aby tworzyć wykres doinstalowałem bibliotekę JFreeChart.
+
+
